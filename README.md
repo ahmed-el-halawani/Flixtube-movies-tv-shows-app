@@ -4,12 +4,12 @@ flutter android and windows movie app that scrap movies links from egybest and a
 
 # Download App For Android
 
-<a  href="https://github.com/mano1997max/Flixtube-movies-tv-shows-app/raw/main/Pharaohs%20Tube%20-%20android%20apk/app-release_v1.1.0%2B1.apk" >
+<a  href="https://www.mediafire.com/folder/6k439rq0qtn1y/android" >
 v1.1.0+1 Download Now
 </a>
 
 # Download App For Windows
-<a  href="https://www.mediafire.com/folder/e4ty0pl0xx8wf/flixtube" >
+<a  href="https://www.mediafire.com/folder/6tu16lvrnek9c/windows" >
 v1.1.0+1 Download Now
 </a>
 
