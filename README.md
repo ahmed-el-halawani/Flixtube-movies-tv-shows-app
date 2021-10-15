@@ -82,6 +82,6 @@ dependencies:
    injectable_generator: ^1.4.1
 ```
 for contact me : 
-  gmail : agomaa528.ag@gmail.com
-  linkedIn : https://www.linkedin.com/in/ahmed-gomaa-780539134/
-  whatsapp number : 01097033133
+  gmail : agomaa528.ag@gmail.com  
+  linkedIn : https://www.linkedin.com/in/ahmed-gomaa-780539134/  
+  whatsapp number : 01097033133  
